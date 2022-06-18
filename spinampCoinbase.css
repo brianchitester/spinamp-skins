@@ -1,0 +1,58 @@
+:root {
+    --primary-text: rgb(29, 29, 29) ;
+    --secondary-text: rgb(29, 29, 29)  ;
+    --primary-background: rgb(241, 241, 241);
+    --secondary-background: rgb(232,240,254);
+    --player-background: rgb(255, 255, 255);
+    --player-accent: rgb(0,82,255);
+    --border: rgb(29, 29, 29);
+}
+
+/* nav button border */
+.r-1d6e4n9{
+    border-color: var(--border) !important;
+}
+
+/* small text */
+.r-1enofrn {
+    color: var(--secondary-text) !important; 
+}
+
+/* player button text */
+.r-lrvibr,
+/* player header text */
+.r-zrs10j
+{
+    color: var(--primary-text) !important;
+}
+
+/* player text*/
+.r-qncc00 {
+    color: var(--primary-text) !important;
+
+}
+
+/* player background */
+.r-ezmd82 {
+    background-color: var(--player-background) !important;
+}
+
+/* page background */
+/* player header */
+/* player button background */
+.r-185tgxy {
+    background-color: var(--primary-background) !important;
+}
+
+/* pressed button  */
+.r-pg0n2 {
+    background-color: var(--secondary-background) !important;
+}
+
+/* player accent */
+.r-r32f27 {
+    background-color: var(--player-accent) !important;
+}
+
+
+
